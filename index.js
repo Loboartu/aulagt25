@@ -17,6 +17,8 @@ comidaFavorita = "pudim";
 console.log (comidaFavorita)
 
 nome= prompt("digite seu nome");
+
+
 console.log(nome)
 
 //String
