@@ -29,5 +29,5 @@ console.log(frase1);
 
 //Mensagem mais elaborada
 let frase2 = `Olá! Meu nome é ${nome} ${sobrenome} e tenho ${idade} anos.
-Atualmente, trabalho como ${profissao} na bela cidade de ${cidade}.`;
+Atualmente, trabalho como ${profissao} em ${cidade} e interiores.`;
 console.log(frase2);
